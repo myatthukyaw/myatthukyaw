@@ -7,5 +7,5 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthukyaw&layout=compact&theme=github)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=myatthukyaw&theme=github)
+![trophy](https://github-profile-trophy.vercel.app/?username=myatthukyaw&theme=github&exclude_achievements=Issues,PullRequest)
 
