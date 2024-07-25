@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Myat Thu's github stats](https://github-readme-stats.vercel.app/api?username=myatthukyaw&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/myatthukyaw/myatthukyaw)
+[![Myat Thu's github stats](https://github-readme-stats.vercel.app/api?username=myatthukyaw&show_icons=true&theme=radical&hide=prs,issues)](https://github.com/myatthukyaw/myatthukyaw)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=myatthukyaw&theme=github)
 
