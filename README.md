@@ -2,5 +2,3 @@
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthukyaw&layout=compact&theme=github)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=myatthukyaw&theme=onedark&exclude_achievements=Issues,PullRequest)
-
